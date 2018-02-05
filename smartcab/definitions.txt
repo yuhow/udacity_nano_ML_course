@@ -21,4 +21,8 @@ each trip has a time to reach the destination which decreases for each action ta
 allotted time becomes zero before reaching the destination, the trip has failed.
 
 Rewards and Goal
-The smartcab will receive positive or negative rewards based on the action it as taken. Expectedly, the smartcab will receive a small positive reward when making a good action, and a varying amount of negative reward dependent on the severity of the traffic violation it would have committed. Based on the rewards and penalties the smartcab receives, the self-driving agent implementation should learn an optimal policy for driving on the city roads while obeying traffic rules, avoiding accidents, and reaching passengers’ destinations in the allotted time.
+The smartcab will receive positive or negative rewards based on the action it as taken. Expectedly, the smartcab will receive a small 
+positive reward when making a good action, and a varying amount of negative reward dependent on the severity of the traffic violation it 
+would have committed. Based on the rewards and penalties the smartcab receives, the self-driving agent implementation should learn an 
+optimal policy for driving on the city roads while obeying traffic rules, avoiding accidents, and reaching passengers’ destinations in the 
+allotted time.
