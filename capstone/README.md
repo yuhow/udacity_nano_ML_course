@@ -59,3 +59,7 @@ The test data for Kaggle Leaderboard ranking is similar, with the following diff
 **Target Variable**
 - **is_attributed**: the target that is to be predicted, indicating the app was downloaded
 (not included in the test data for Kaggle Leaderboard ranking)
+
+### Important resource
+- anormaly detection: https://www.youtube.com/watch?v=086OcT-5DYI
+- Learning from imbalanced data: https://www.jeremyjordan.me/imbalanced-data/
