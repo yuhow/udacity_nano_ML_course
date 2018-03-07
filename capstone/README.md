@@ -58,4 +58,4 @@ The test data for Kaggle Leaderboard ranking is similar, with the following diff
 
 **Target Variable**
 - **is_attributed**: the target that is to be predicted, indicating the app was downloaded
-(not included in the test dataa for Kaggle Leaderboard ranking)
+(not included in the test data for Kaggle Leaderboard ranking)
