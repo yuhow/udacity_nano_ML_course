@@ -61,5 +61,7 @@ The test data for Kaggle Leaderboard ranking is similar, with the following diff
 (not included in the test data for Kaggle Leaderboard ranking)
 
 ### Important resource
-- anormaly detection: https://www.youtube.com/watch?v=086OcT-5DYI
+- anormaly detection: <br>
+  https://www.youtube.com/watch?v=086OcT-5DYI<br>
+  https://en.wikipedia.org/wiki/Anomaly_detection
 - Learning from imbalanced data: https://www.jeremyjordan.me/imbalanced-data/
