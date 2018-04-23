@@ -39,6 +39,7 @@ This will open the iPython Notebook software and project file in your browser.
 ### Data
 
 All the data can be download from: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
+After downloading all the necessary files from the above link, please create a directory 'data' and put all the data files under it.
 
 **Features**
 Each row of the training data contains a click record, with the following features.
